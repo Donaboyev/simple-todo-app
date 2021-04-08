@@ -1,5 +1,6 @@
 # Simple Todo App
 A simple todo application. You can add, update, delete and sort your todos.  
+Used technologies: Kotlin coroutines, MVVM, Navigation Component, Diffutil, RecyclerView Animator, ViewModel, Room, ViewBinding  and more.
 
 ## Featues of the application
 Add todo | Update todo
