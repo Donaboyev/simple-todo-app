@@ -3,7 +3,7 @@ A simple todo application. You can add, update, delete and sort your todos.
 Used technologies: Kotlin coroutines, MVVM, Navigation Component, Diffutil, RecyclerView Animator, ViewModel, Room, ViewBinding  and more.
 
 ## You can download and install the application
-[<img src="https://user-images.githubusercontent.com/56734609/114069097-0a59e500-98b8-11eb-9dd5-047b4d2e4fb5.png">](https://t.me/android_projects/68)
+[<img src="https://user-images.githubusercontent.com/56734609/114069097-0a59e500-98b8-11eb-9dd5-047b4d2e4fb5.png" width="64" height="64">](https://t.me/android_projects/68)
 
 ## Featues of the application
 Add todo | Update todo
