@@ -15,4 +15,6 @@ Delete all todos |
 
 [Demo video with fully functionality](https://youtu.be/Dd2qUO5BD98 "On Youtube")
 
+[You can download the application](https://t.me/android_projects/68)
+
 Inspired and followed by [this](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/) and [this](https://dribbble.com/shots/14153121-ToDo-App-Dark-Theme)
