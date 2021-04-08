@@ -5,9 +5,8 @@ https://dribbble.com/shots/14153121-ToDo-App-Dark-Theme
 A simple todo application. You can add, update, delete and sort your todos.  
 
 
-## Add todo
-<img src="https://user-images.githubusercontent.com/56734609/113989284-b9bb9b00-9869-11eb-885f-ba64b726e4aa.gif" width="50%" />
-<img src="https://user-images.githubusercontent.com/56734609/113989332-c3dd9980-9869-11eb-8875-d6dcd79e8543.gif" width="50%" />
+## Add todo | Update todo
+<img src="https://user-images.githubusercontent.com/56734609/113989284-b9bb9b00-9869-11eb-885f-ba64b726e4aa.gif" width="50%" /> | <img src="https://user-images.githubusercontent.com/56734609/113989332-c3dd9980-9869-11eb-8875-d6dcd79e8543.gif" width="50%" />
 
 ## Update todo
 
