@@ -5,7 +5,7 @@ Used technologies: Kotlin coroutines, MVVM, Navigation Component, Diffutil, Recy
 ## Featues of the application
 Add todo | Update todo
 -------- | -----------
-<img src="https://user-images.githubusercontent.com/56734609/113989284-b9bb9b00-9869-11eb-885f-ba64b726e4aa.gif" /> | <img src="https://user-images.githubusercontent.com/56734609/113989332-c3dd9980-9869-11eb-8875-d6dcd79e8543.gif" />
+<img src="https://user-images.githubusercontent.com/56734609/113989284-b9bb9b00-9869-11eb-885f-ba64b726e4aa.gif" width="400" heigth="730" /> | <img src="https://user-images.githubusercontent.com/56734609/113989332-c3dd9980-9869-11eb-8875-d6dcd79e8543.gif" width="400" heigth="730" />
 
 Delete todo | Sort todos
 -------- | -----------
