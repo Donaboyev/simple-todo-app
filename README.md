@@ -9,8 +9,7 @@ Add todo | Update todo
 
 Delete todo | Sort todos
 ----------- | ----------
-<img src="https://user-images.githubusercontent.com/56734609/113989372-cf30c500-9869-11eb-8b20-3c702f735039.gif" width="400" height="730"/> | 
-<!-- <img src="https://user-images.githubusercontent.com/56734609/113989410-d9eb5a00-9869-11eb-9e21-c1416471023b.gif" width="400" height="730"/> -->
+<img src="https://user-images.githubusercontent.com/56734609/113989372-cf30c500-9869-11eb-8b20-3c702f735039.gif" width="400" height="730"/> | <img src="https://user-images.githubusercontent.com/56734609/113989410-d9eb5a00-9869-11eb-9e21-c1416471023b.gif" width="400" height="730"/> 
 
 Delete all todos | 
 ---------------- | 
