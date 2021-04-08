@@ -19,7 +19,7 @@ Delete all todos |
 <img src="https://user-images.githubusercontent.com/56734609/113989437-e079d180-9869-11eb-8b88-487b1e4a09aa.gif" width="400" height="730"/> | 
 
 [Demo video with fully functionality](https://youtu.be/Dd2qUO5BD98 "On Youtube")
+[<img src="https://user-images.githubusercontent.com/56734609/114071381-7ccbc480-98ba-11eb-959f-674cb3a25e1e.png" width="200" height="200">](https://youtu.be/Dd2qUO5BD98 "On Youtube")
 
-[You can download the application](https://t.me/android_projects/68)
 
 Inspired and followed by [this](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/) and [this](https://dribbble.com/shots/14153121-ToDo-App-Dark-Theme)
