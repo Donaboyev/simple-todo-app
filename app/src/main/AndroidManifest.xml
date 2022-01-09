@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SimpleTodoApp">
         <activity
+            android:exported="true"
             android:name=".MainActivity"
             android:windowSoftInputMode="adjustPan">
             <intent-filter>

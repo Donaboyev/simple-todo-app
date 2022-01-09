@@ -13,7 +13,6 @@ import com.donaboyev.simpletodoapp.data.models.ToDoData
 import com.donaboyev.simpletodoapp.data.viewmodel.ToDoViewModel
 import com.donaboyev.simpletodoapp.databinding.FragmentUpdateBinding
 import com.donaboyev.simpletodoapp.fragments.SharedViewModel
-import com.donaboyev.simpletodoapp.utils.parsePriorityColor
 import com.donaboyev.simpletodoapp.utils.parsePriorityToInt
 
 class UpdateFragment : Fragment() {
